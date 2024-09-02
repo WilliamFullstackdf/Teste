@@ -1,0 +1,17 @@
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\bin\Debug\net8.0\Teste.exe
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\bin\Debug\net8.0\Teste.dll
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\bin\Debug\net8.0\Teste.pdb
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\Teste.dll
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\Teste.pdb
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\ref\Teste.dll
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\Teste.csproj.AssemblyReference.cache
+C:\Users\wtecs\OneDrive\Área de Trabalho\targetteste\Teste\obj\Debug\net8.0\Teste.csproj.Up2Date
